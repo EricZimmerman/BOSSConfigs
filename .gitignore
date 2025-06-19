@@ -1,0 +1,6 @@
+log
+log/*
+plugins
+plugins/*.dll
+plugins/*.so
+user_backup*/*
