@@ -4,3 +4,4 @@ plugins
 plugins/*.dll
 plugins/*.so
 user_backup*/*
+cache/*
